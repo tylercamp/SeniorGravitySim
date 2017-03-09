@@ -1,0 +1,14 @@
+.vs/
+/x64/
+/Debug/
+/Debug DLL/
+/Release/
+/Release DLL/
+Library/
+frames/
+Temp/
+
+*.sdf
+*.db
+
+QuickData.Gravity/x64
